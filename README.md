@@ -1,19 +1,13 @@
 ![](https://images.cooltext.com/5508554.png)
 
-### Bienvenidos
-## Recuerda tu decidiste entrar 😈
+## Bienvenidos
+### Recuerda tu decidiste entrar 😈
 
-<!--
-**SoyBastidasGit/SoyBastidasGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Que tal yo soy Daniel Bastidas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estudiante de Sistemas Computacionales en ITT
+-Egresado de CecyteBC como tecnico programador de software
+-Me interesa el desarrollo web y sistemas embebidos
+-Me gusta ver reviews de los nuevos lanzamientos de smartphones
+-¡¡¡Saquen las batallas de gallos!!!
