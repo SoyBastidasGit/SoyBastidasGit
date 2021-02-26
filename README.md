@@ -10,6 +10,10 @@ Conoceme un poco yo soy Daniel Bastidas:
 - Me gusta ver reviews de los nuevos lanzamientos de smartphones
 - ¡¡¡Saquen las batallas de gallos!!!
 
+## Si, me gusta MINECRAFT!!!
+
+No se olviden de las recetas principales para un buen survival
+
 | Nombre         | Receta |
 | -------------- | ------ |
 | Hachas         | ![](http://minecraftwiki.es/w/images/e/e9/CraftingAxesIOanim.gif) |
