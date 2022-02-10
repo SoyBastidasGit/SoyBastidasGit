@@ -10,19 +10,16 @@ Conoceme un poco yo soy Daniel Bastidas:
 - Me gusta ver reviews de los nuevos lanzamientos de smartphones
 - ¡¡¡Saquen las batallas de gallos!!!
 
-## Si, me gusta MINECRAFT!!!
+## Si, me gusta MINECRAFT y Genshin Impact!!!
 
-No se olviden de las recetas principales para un buen survival
+#HORARIO DE CLASES ENE-JUN 2022
 
-| Nombre         | Receta |
-| -------------- | ------ |
-| Hachas         | ![](http://minecraftwiki.es/w/images/e/e9/CraftingAxesIOanim.gif)      |
-| Picos          | ![](http://minecraftwiki.es/w/images/2/25/CraftingPickaxesIOanim.gif)  |
-| Palas          | ![](http://minecraftwiki.es/w/images/c/cf/CraftingShovelsIOanim.gif)   |
-| Azadas         | ![](http://minecraftwiki.es/w/images/1/15/CraftingHoesIOanim.gif)      |
-| Mechero        | ![](http://minecraftwiki.es/w/images/e/e0/Flintsteel2.JPG)             |
-| Cubo           | ![](http://minecraftwiki.es/w/images/3/33/Balde.JPG)                   |
-| Brujula        | ![](http://minecraftwiki.es/w/images/c/cd/Brujula.JPG)                 |
-| Reloj          | ![](http://minecraftwiki.es/w/images/2/2e/Reloj.JPG)                   |
-| Caña de pescar | ![](http://minecraftwiki.es/w/images/0/01/Ca%C3%B1a.JPG)               |
-| Tijeras        | ![](http://minecraftwiki.es/w/images/7/71/Podadora.JPG)                |
+| HORARIO        | LUNES                   | MARTES                  | MIERCOLES               | JUEVES                  | VIERNES                 |
+| -------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| 12:00-1:00     | SIMULACION              | SIMULACION              | SIMULACION              | SIMULACION              | SIMULACION              |
+| 1:00-2:00      | ING. DE SOFTWARE        | ING. DE SOFTWARE        | ING. DE SOFTWARE        | ING. DE SOFTWARE        | ING. DE SOFTWARE        |
+| 2:00-3:00      | TALLER DE INVEST. 1     | TALLER DE INVEST. 1     | TALLER DE INVEST. 1     | TALLER DE INVEST. 1     | ----------------------- |
+| 3:00-4:00      | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 |
+| 4:00-5:00      | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| 5:00-6:00      | SISTEMAS PROGRAMABLES   | SISTEMAS PROGRAMABLES   | SISTEMAS PROGRAMABLES   | SISTEMAS PROGRAMABLES   | ----------------------- |
+| 6:00-7:00      | ADMON. DE BD            | ADMON. DE BD            | ADMON. DE BD            | ADMON. DE BD            | ADMON. DE BD            |
