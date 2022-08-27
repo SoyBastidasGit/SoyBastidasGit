@@ -16,10 +16,9 @@ Conoceme un poco yo soy Daniel Bastidas:
 
 | HORARIO        | LUNES                   | MARTES                  | MIERCOLES               | JUEVES                  | VIERNES                 |
 | -------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| 12:00-1:00     | SIMULACION              | SIMULACION              | SIMULACION              | SIMULACION              | SIMULACION              |
-| 1:00-2:00      | ING. DE SOFTWARE        | ING. DE SOFTWARE        | ING. DE SOFTWARE        | ING. DE SOFTWARE        | ING. DE SOFTWARE        |
-| 2:00-3:00      | TALLER DE INVEST. 1     | TALLER DE INVEST. 1     | TALLER DE INVEST. 1     | TALLER DE INVEST. 1     | ----------------------- |
-| 3:00-4:00      | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 | LENGUAJES Y AUTOMATAS 1 |
-| 4:00-5:00      | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| 5:00-6:00      | SISTEMAS PROGRAMABLES   | SISTEMAS PROGRAMABLES   | SISTEMAS PROGRAMABLES   | SISTEMAS PROGRAMABLES   | ----------------------- |
-| 6:00-7:00      | ADMON. DE BD            | ADMON. DE BD            | ADMON. DE BD            | ADMON. DE BD            | ADMON. DE BD            |
+| 2:00-3:00      | GPS                     | GPS                     | GPS                     | GPS                     | GPS                     |
+| 3:00-4:00      | Programacion Web        | Programacion Web        | Programacion Web        | Programacion Web        | Programacion Web        |
+| 4:00-3:00      | Simulacion              | Simulacion              | Simulacion              | Simulacion              | Simulacion              |
+| 5:00-4:00      | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   |
+| 6:00-5:00      | Admon. de BD            | Admon. de BD            | Admon. de BD            | Admon. de BD            | Admon. de BD            |
+| 7:00-6:00      | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 |
