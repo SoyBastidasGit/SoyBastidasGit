@@ -21,9 +21,6 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 - Rendimiento ESD: HBM > 1000V; MM > 100V.
 - Funcionalmente simular al popular 74VHC595
 
-### ESQUEMA DE CASO
-![image](https://user-images.githubusercontent.com/57473019/191574574-c56abd9a-05c9-4fd6-9b3f-9f1c0cd93e96.png)
-
 ### PINES
 ![image](https://i.ibb.co/W5T0FZP/pines.png)
 
