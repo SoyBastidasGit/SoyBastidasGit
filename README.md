@@ -26,3 +26,7 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 
 ### PINES
 ![image](https://i.ibb.co/W5T0FZP/pines.png)
+
+### DIAGRAMA LOGICO
+![image](https://i.ibb.co/db3ycJt/diagrama-logico.png)
+
