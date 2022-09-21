@@ -46,4 +46,4 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 | θja      | Resistencia termina, union al ambiente            | 128            | °C/W   |
 
 ### DIAGRAMA DE APLICACION
-![image](https://ibb.co/JQfCTWG)
+![image](https://user-images.githubusercontent.com/57473019/191581181-05f0b6f5-73be-4788-9b33-b67205c6989a.png)
