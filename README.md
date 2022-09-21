@@ -28,6 +28,7 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 ![image](https://i.ibb.co/db3ycJt/diagrama-logico.png)
 
 ### VALORES MAXIMOS
+
 | Simbolo  | Parametros                                        | Valor          | Unidad |
 |----------|---------------------------------------------------|----------------|--------|
 | Vcc      | Voltaje de suministro de CC positivo              | -0.5 a +7.0    | V      |
