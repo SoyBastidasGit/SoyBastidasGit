@@ -44,3 +44,6 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 | Tstg     | Rango de temperatura de almacenamiento            | -65 a +150     | °C     |
 | Ilatchup | Latchup Performance                               | +-300          | mA     |
 | θja      | Resistencia termina, union al ambiente            | 128            | °C/W   |
+
+### DIAGRAMA DE APLICACION
+![image](https://ibb.co/JQfCTWG)
