@@ -30,3 +30,17 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 ### DIAGRAMA LOGICO
 ![image](https://i.ibb.co/db3ycJt/diagrama-logico.png)
 
+### VALORES MAXIMOS
+| Simbolo  | Parametros                                        | Valor          | Unidad |
+|----------|---------------------------------------------------|----------------|--------|
+| Vcc      | Voltaje de suministro de CC positivo              | -0.5 a +7.0    | V      |
+| Vin      | Voltaje digital de entrada                        | -0.5 a +7.0    | V      |
+| Vout     | Voltaje de salida de corriente continua           | 0.5 a Vcc +7.0 | V      |
+| Iik      | corriente de diodo de entrada                     | -20            | mA     |
+| Iok      | Corriente de diodo de salida                      | +-50           | mA     |
+| Iout     | Corriente de salida de CC, por pin                | +50            | mA     |
+| Icc      | Pines de corriente de suministro de CC, VCC y GND | +-75           | mA     |
+| Pd       | Disipacion de potencia en aire quieto             | 450            | mW     |
+| Tstg     | Rango de temperatura de almacenamiento            | -65 a +150     | °C     |
+| Ilatchup | Latchup Performance                               | +-300          | mA     |
+| θja      | Resistencia termina, union al ambiente            | 128            | °C/W   |
