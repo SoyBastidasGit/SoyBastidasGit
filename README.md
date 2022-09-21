@@ -45,11 +45,3 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 
 ### DIAGRAMA DE APLICACION
 ![image](https://user-images.githubusercontent.com/57473019/191581181-05f0b6f5-73be-4788-9b33-b67205c6989a.png)
-
-
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
