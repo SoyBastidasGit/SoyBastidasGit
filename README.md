@@ -21,13 +21,13 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 - Rendimiento ESD: HBM > 1000V; MM > 100V.
 - Funcionalmente simular al popular 74VHC595
 
-### PINES
+### PINES:
 ![image](https://i.ibb.co/W5T0FZP/pines.png)
 
-### DIAGRAMA LOGICO
+### DIAGRAMA LOGICO:
 ![image](https://i.ibb.co/db3ycJt/diagrama-logico.png)
 
-### VALORES MAXIMOS
+### VALORES MAXIMOS:
 
 | Simbolo  | Parametros                                        | Valor          | Unidad |
 |----------|---------------------------------------------------|----------------|--------|
@@ -43,5 +43,6 @@ El NLSF595 es un registro de cambio CMOS avanzado con salidas de drenaje abierto
 | Ilatchup | Latchup Performance                               | +-300          | mA     |
 | θja      | Resistencia termina, union al ambiente            | 128            | °C/W   |
 
-### DIAGRAMA DE APLICACION
+### DIAGRAMA DE APLICACION:
 ![image](https://user-images.githubusercontent.com/57473019/191581181-05f0b6f5-73be-4788-9b33-b67205c6989a.png)
+
